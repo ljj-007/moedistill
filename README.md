@@ -137,3 +137,15 @@ This project is licensed under the MIT License.
 ## 🙏 Acknowledgments
 
 We thank the authors of the baseline methods and dataset providers for making their code and data available.
+
+## ✍️ Citation
+
+```
+@inproceedings{liu2026balanced,
+  title={Balanced Knowledge Distillation for Large Language Models with Mix-of-Experts},
+  author={Liu, Jiajun and He, Yao and Ke, Wenjun and Wang, Peng and Shang, Ziyu and Li, Guozheng and Xu, Zijie},
+  booktitle={AAAI},
+  year={2026}
+}
+```
+
